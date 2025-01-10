@@ -18,7 +18,9 @@ Program: "Would you like to roll the dice? (yes/no)"
 
 User: "yes"
 
-Program: "You rolled the dice, and the result is: 4"
+Program: "You rolled the dice, and the result is: 5"
+
+Program wil stop when user say "no"
 
 Features:
 
